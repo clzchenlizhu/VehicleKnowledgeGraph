@@ -1,0 +1,526 @@
+{
+  "collection": "kb_chunks",
+  "top_k": 10,
+  "candidate_k": 10,
+  "rrf_k": 60,
+  "rrf_weights": [
+    1.0,
+    1.0
+  ],
+  "route_a": {
+    "mode": "route_a_only",
+    "collection": "kb_chunks",
+    "n_queries": 31,
+    "recall@k": 0.967741935483871,
+    "precision@k": 0.09677419354838714,
+    "mrr": 0.8290322580645161,
+    "per_query": [
+      {
+        "query_id": "q01",
+        "query": "万用表的短路蜂鸣测试在什么情况下触发？",
+        "hit": true,
+        "first_relevant_rank": 2,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q02",
+        "query": "万用表二极管测试的最大测试电流是多少？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q03",
+        "query": "万用表二极管测试的开路电压典型值是多少？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q06",
+        "query": "万用表的液晶显示是多少位？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q07",
+        "query": "万用表正常测量率是每秒几次？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q08",
+        "query": "万用表电池电量不足时屏幕如何提示？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q16",
+        "query": "使用万用表时对输入测量值有何要求？",
+        "hit": true,
+        "first_relevant_rank": 2,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q17",
+        "query": "负极端口COM电压超过多少时不能测电压？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q18",
+        "query": "做电阻或二极管测试前要对电容做什么？",
+        "hit": true,
+        "first_relevant_rank": 4,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q19",
+        "query": "更换保险丝或电池前要做什么？",
+        "hit": false,
+        "first_relevant_rank": null,
+        "relevant_count": 0,
+        "best_overlap": 0.77
+      },
+      {
+        "query_id": "q20",
+        "query": "什么情况下不能使用万用表？",
+        "hit": true,
+        "first_relevant_rank": 5,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q21",
+        "query": "直流电流测量时10A档测量时长有何限制？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q22",
+        "query": "万用表测二极管时正向电压显示范围？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q23",
+        "query": "非接触测电笔检测到火线220V时如何提示？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q24",
+        "query": "HAK180使用什么规格电源？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q25",
+        "query": "HAK180建议的使用温度范围？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q26",
+        "query": "HAK180建议的使用湿度范围？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q27",
+        "query": "戴心脏起搏器的人使用HAK180要注意什么？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q28",
+        "query": "HAK180手册对复制文档有何规定？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q29",
+        "query": "使用HAK180前对包装材料有什么要求？",
+        "hit": true,
+        "first_relevant_rank": 2,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q30",
+        "query": "为什么不能自行拆解HAK180？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q31",
+        "query": "HAK180应避免接触哪些环境？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q32",
+        "query": "HAK180异常高温冒烟时应怎么办？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q33",
+        "query": "为什么不能把HAK180放在化学品附近？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q34",
+        "query": "HAK180的塑料袋包装为何要远离儿童？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q35",
+        "query": "为什么不能湿手碰HAK180插头？",
+        "hit": true,
+        "first_relevant_rank": 4,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q36",
+        "query": "雷暴天气能否使用HAK180？",
+        "hit": true,
+        "first_relevant_rank": 2,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q37",
+        "query": "Brother对延长线的建议是什么？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q38",
+        "query": "HAK180的接地插头有什么要求？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q39",
+        "query": "HAK180应放置在什么样的台面上？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q40",
+        "query": "搬运HAK180时应怎样搬？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      }
+    ]
+  },
+  "route_a_plus_hyde": {
+    "mode": "route_a_plus_hyde",
+    "collection": "kb_chunks",
+    "n_queries": 31,
+    "recall@k": 1.0,
+    "precision@k": 0.10000000000000005,
+    "mrr": 0.8228494623655914,
+    "per_query": [
+      {
+        "query_id": "q01",
+        "query": "万用表的短路蜂鸣测试在什么情况下触发？",
+        "hit": true,
+        "first_relevant_rank": 2,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q02",
+        "query": "万用表二极管测试的最大测试电流是多少？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q03",
+        "query": "万用表二极管测试的开路电压典型值是多少？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q06",
+        "query": "万用表的液晶显示是多少位？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q07",
+        "query": "万用表正常测量率是每秒几次？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q08",
+        "query": "万用表电池电量不足时屏幕如何提示？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q16",
+        "query": "使用万用表时对输入测量值有何要求？",
+        "hit": true,
+        "first_relevant_rank": 5,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q17",
+        "query": "负极端口COM电压超过多少时不能测电压？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q18",
+        "query": "做电阻或二极管测试前要对电容做什么？",
+        "hit": true,
+        "first_relevant_rank": 4,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q19",
+        "query": "更换保险丝或电池前要做什么？",
+        "hit": true,
+        "first_relevant_rank": 10,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q20",
+        "query": "什么情况下不能使用万用表？",
+        "hit": true,
+        "first_relevant_rank": 8,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q21",
+        "query": "直流电流测量时10A档测量时长有何限制？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q22",
+        "query": "万用表测二极管时正向电压显示范围？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q23",
+        "query": "非接触测电笔检测到火线220V时如何提示？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q24",
+        "query": "HAK180使用什么规格电源？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q25",
+        "query": "HAK180建议的使用温度范围？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q26",
+        "query": "HAK180建议的使用湿度范围？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q27",
+        "query": "戴心脏起搏器的人使用HAK180要注意什么？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q28",
+        "query": "HAK180手册对复制文档有何规定？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q29",
+        "query": "使用HAK180前对包装材料有什么要求？",
+        "hit": true,
+        "first_relevant_rank": 3,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q30",
+        "query": "为什么不能自行拆解HAK180？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q31",
+        "query": "HAK180应避免接触哪些环境？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q32",
+        "query": "HAK180异常高温冒烟时应怎么办？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q33",
+        "query": "为什么不能把HAK180放在化学品附近？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q34",
+        "query": "HAK180的塑料袋包装为何要远离儿童？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q35",
+        "query": "为什么不能湿手碰HAK180插头？",
+        "hit": true,
+        "first_relevant_rank": 2,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q36",
+        "query": "雷暴天气能否使用HAK180？",
+        "hit": true,
+        "first_relevant_rank": 2,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q37",
+        "query": "Brother对延长线的建议是什么？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q38",
+        "query": "HAK180的接地插头有什么要求？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q39",
+        "query": "HAK180应放置在什么样的台面上？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      },
+      {
+        "query_id": "q40",
+        "query": "搬运HAK180时应怎样搬？",
+        "hit": true,
+        "first_relevant_rank": 1,
+        "relevant_count": 1,
+        "best_overlap": 1.0
+      }
+    ]
+  }
+}
