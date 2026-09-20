@@ -1,0 +1,366 @@
+[
+    {
+        "content": "## 安全手册1\n\n为了您的安全，请在使用本仪表之前仔细阅读该手册: 2\n\n使用本表时，请勿将输入的测量值超出其所允许的量程范围。3",
+        "title": "## 安全手册1_1",
+        "file_title": "万用表RS-12的使用",
+        "part": 1,
+        "parent_title": "## 安全手册1"
+    },
+    {
+        "content": "<table><tr><td></td><td>输入量程</td></tr><tr><td>功能</td><td>最大输入</td></tr><tr><td>交/直流电压</td><td>直流/交流电压600V</td></tr><tr><td>直流/交流电压</td><td>直流/交流电压600V, 200Vrms",
+        "title": "## 安全手册1_2",
+        "file_title": "万用表RS-12的使用",
+        "part": 2,
+        "parent_title": "## 安全手册1"
+    },
+    {
+        "content": "200Vrms 用于200mV量程</td></tr><tr><td>mA直流</td><td>200mA 250V快速熔断保险丝</td></tr><tr><td>A DC</td><td>10A 250V 快速熔断保险丝(最多每15分钟, 需时30秒)</td></tr><tr><td>电阻,短路测试</td><td>250Vrms, 最多15秒</td></tr></table>",
+        "title": "## 安全手册1_3",
+        "file_title": "万用表RS-12的使用",
+        "part": 3,
+        "parent_title": "## 安全手册1"
+    },
+    {
+        "content": "2. 在测量高压电路时，请严格注意个人及设备的安全防护措施。5\n\n3. 若负极端口（COM）电压超出500V以上接地电压，请勿进行电压测 6试。\n\n4. 若功能开关置于电流，电阻或二极管位置时，请勿将表笔与电路相连接，否则会损坏仪表。\n\n5. 进行电阻或二极管测试时，应把电容放电并断开电源。8\n\n6. 打开后盖，更换保险丝或电池之前，请关闭电源并取下表笔。9",
+        "title": "## 安全手册1_4",
+        "file_title": "万用表RS-12的使用",
+        "part": 4,
+        "parent_title": "## 安全手册1"
+    },
+    {
+        "content": "7. 请勿使用仪表，直到电池盖和保险丝盖装好，螺丝拧紧。10",
+        "title": "## 安全手册1_5",
+        "file_title": "万用表RS-12的使用",
+        "part": 5,
+        "parent_title": "## 安全手册1"
+    },
+    {
+        "content": "## 安全标识 11\n\n![警示标志：表示操作需参照说明书，注意危险电压风险，避免伤亡或设备损坏。](http://127.0.0.1:9000/knowledge-base-files/upload-images/万用表RS-12的使用/f2c890621890ba8fe2ffa0f4bae9ffaa37a6a713b7ac7ca9906eaf5c98b3f839.jpg)\n\n12",
+        "title": "## 安全标识 11_1",
+        "file_title": "万用表RS-12的使用",
+        "part": 1,
+        "parent_title": "## 安全标识 11"
+    },
+    {
+        "content": "12\n\n表明此操作须参照说明书进行。 13\n\nWARNING 表明此处可能出现危险电压，请避开以免导致死亡或严重伤害。14\n\nCAUTION 表明此处可能出现危险电压，请避开以免导致仪表的损坏。15",
+        "title": "## 安全标识 11_2",
+        "file_title": "万用表RS-12的使用",
+        "part": 2,
+        "parent_title": "## 安全标识 11"
+    },
+    {
+        "content": "![万用表RS-12使用说明：图示“MAX”标识最高量程，警示勿接入500VAC/VDC电路，注意高压危险。](http://127.0.0.1:9000/knowledge-base-files/upload-images/万用表RS-12的使用/452e51e674675685f9d24396f331795f6b11532c567611b140891b272a51db69.jpg)",
+        "title": "## 安全标识 11_3",
+        "file_title": "万用表RS-12的使用",
+        "part": 3,
+        "parent_title": "## 安全标识 11"
+    },
+    {
+        "content": "请勿连接到500VAC或VDC的电路上。 17",
+        "title": "## 安全标识 11_4",
+        "file_title": "万用表RS-12的使用",
+        "part": 4,
+        "parent_title": "## 安全标识 11"
+    },
+    {
+        "content": "![万用表RS-12使用警告：勿测500VAC/VDC电路，图示闪电符号提示端口存在危险电压风险。](http://127.0.0.1:9000/knowledge-base-files/upload-images/万用表RS-12的使用/fa4ada9461a59e3b21cfeb26499dfb9dc8c7308922f774f73caa3f0a4d6ed26c.jpg)\n\n18",
+        "title": "## 安全标识 11_5",
+        "file_title": "万用表RS-12的使用",
+        "part": 5,
+        "parent_title": "## 安全标识 11"
+    },
+    {
+        "content": "18\n\n表明此端口可能出现危险电压。19",
+        "title": "## 安全标识 11_6",
+        "file_title": "万用表RS-12的使用",
+        "part": 6,
+        "parent_title": "## 安全标识 11"
+    },
+    {
+        "content": "![万用表RS-12的端口布局示意图，显示COM、10A、正极端口及功能选择转盘等主要控制与测量端口。](http://127.0.0.1:9000/knowledge-base-files/upload-images/万用表RS-12的使用/479b161ffa8ce16aaa20640fdbcacd7f8ea731ce651c0ff24e8ee17da3b5bbc4.jpg)",
+        "title": "## 安全标识 11_7",
+        "file_title": "万用表RS-12的使用",
+        "part": 7,
+        "parent_title": "## 安全标识 11"
+    },
+    {
+        "content": "双绝缘保护。20 21",
+        "title": "## 安全标识 11_8",
+        "file_title": "万用表RS-12的使用",
+        "part": 8,
+        "parent_title": "## 安全标识 11"
+    },
+    {
+        "content": "## 控制与端口\n\n1.LCD液晶显示 2\n\n2.功能选择转盘3\n\n3.10A端口 4\n\n4.COM端口 5\n\n5.正极端口<sub>6</sub>\n\n6.数据保持按键77.背光按键 8\n\n![万用表RS-12结构示意图：标注LCD屏、功能转盘、端口及按键等主要部件位置](http://127.0.0.1:9000/knowledge-base-files/upload-images/万用表RS-12的使用/ae2f62e1bfd4436b53fffc7307e4173b3873522743f47f5422fd06e434b3fbf5.jpg)\n",
+        "title": "## 控制与端口",
+        "file_title": "万用表RS-12的使用",
+        "part": 1,
+        "parent_title": "## 控制与端口"
+    },
+    {
+        "content": "## 功能符号指示 10\n\n蜂鸣指示•))) 11\n\n二极管测试指示12 13\n\nµ micro (电流范围) <sub>14</sub>\n\nm milli ( 电压/电流范围) 15\n\nk kilo (电阻范围) 16\n\nVDC 直流电压 17\n\nVAC 交流电流 18\n\nADC 直流电流 19\n\nBAT 电池电量不足指示 20\n",
+        "title": "## 功能符号指示 10",
+        "file_title": "万用表RS-12的使用",
+        "part": 1,
+        "parent_title": "## 功能符号指示 10"
+    },
+    {
+        "content": "## 规格 21\n\n22",
+        "title": "## 规格 21_1",
+        "file_title": "万用表RS-12的使用",
+        "part": 1,
+        "parent_title": "## 规格 21"
+    },
+    {
+        "content": "<table><tr><td>功能</td><td>量程</td><td>分辨率</td><td>精确度</td></tr><tr><td rowspan=\"5\">直流电压</td><td>200mV</td><td>0.1mV</td><td rowspan=\"3\">±(0.5% reading + 2",
+        "title": "## 规格 21_2",
+        "file_title": "万用表RS-12的使用",
+        "part": 2,
+        "parent_title": "## 规格 21"
+    },
+    {
+        "content": "reading + 2 digits)</td></tr><tr><td>2000mV</td><td>1mV</td></tr><tr><td>20V</td><td>0.01V</td></tr><tr><td>200V</td><td>0.1V</td><td rowspan=\"2\">±(0.8% reading + 2",
+        "title": "## 规格 21_3",
+        "file_title": "万用表RS-12的使用",
+        "part": 3,
+        "parent_title": "## 规格 21"
+    },
+    {
+        "content": "reading + 2 digits)</td></tr><tr><td>600V</td><td>1V</td></tr><tr><td rowspan=\"2\">交流电压</td><td>200V</td><td>0.1V</td><td rowspan=\"2\">±(1.2% reading + 10 digits",
+        "title": "## 规格 21_4",
+        "file_title": "万用表RS-12的使用",
+        "part": 4,
+        "parent_title": "## 规格 21"
+    },
+    {
+        "content": "reading + 10 digits 50/60Hz)</td></tr><tr><td>600V</td><td>1V</td></tr><tr><td rowspan=\"4\">直流电流</td><td>2000μA</td><td>1μA</td><td rowspan=\"2\">±(1.0% reading + 2",
+        "title": "## 规格 21_5",
+        "file_title": "万用表RS-12的使用",
+        "part": 5,
+        "parent_title": "## 规格 21"
+    },
+    {
+        "content": "reading + 2 digits)</td></tr><tr><td>20mA</td><td>10μA</td></tr><tr><td>200mA</td><td>100μA</td><td>±(1.2% reading + 2 digits)</td></tr><tr><td>10A</td><td>10mA</td><td>±(2.0% reading + 2",
+        "title": "## 规格 21_6",
+        "file_title": "万用表RS-12的使用",
+        "part": 6,
+        "parent_title": "## 规格 21"
+    },
+    {
+        "content": "reading + 2 digits)</td></tr><tr><td rowspan=\"5\">电阻</td><td>200Ω</td><td>0.1Ω</td><td rowspan=\"4\">±(0.8% reading + 2",
+        "title": "## 规格 21_7",
+        "file_title": "万用表RS-12的使用",
+        "part": 7,
+        "parent_title": "## 规格 21"
+    },
+    {
+        "content": "reading + 2 digits)</td></tr><tr><td>2000Ω</td><td>1Ω</td></tr><tr><td>20kΩ</td><td>0.01kΩ</td></tr><tr><td>200kΩ</td><td>0.1kΩ</td></tr><tr><td>2000kΩ</td><td>1kΩ</td><td>±(1.0% reading + 2",
+        "title": "## 规格 21_8",
+        "file_title": "万用表RS-12的使用",
+        "part": 8,
+        "parent_title": "## 规格 21"
+    },
+    {
+        "content": "reading + 2 digits)</td></tr><tr><td rowspan=\"2\">电池</td><td>9V</td><td>10mV</td><td rowspan=\"2\">±(1.0% reading + 2 digits)</td></tr><tr><td>1.5V</td><td>1mV</td></tr></table>",
+        "title": "## 规格 21_9",
+        "file_title": "万用表RS-12的使用",
+        "part": 9,
+        "parent_title": "## 规格 21"
+    },
+    {
+        "content": "注意: 精确度规格由两种因素组成。23  \n● (% reading) –测量电路的精确度。24  \n● (+ digits) –数位转换器条码的精确度。25  \n注意: 精确度在65°F 至 83°F (18°C 至 28°C)，湿度低于75%RH时得出。26",
+        "title": "## 规格 21_10",
+        "file_title": "万用表RS-12的使用",
+        "part": 10,
+        "parent_title": "## 规格 21"
+    },
+    {
+        "content": "## 技术指标说明",
+        "title": "## 技术指标说明_1",
+        "file_title": "万用表RS-12的使用",
+        "part": 1,
+        "parent_title": "## 技术指标说明"
+    },
+    {
+        "content": "<table><tr><td>二极管测试</td><td>测试电流最大值1mA,开路电压2.8V DC典型值2</td></tr><tr><td>短路蜂鸣测试</td><td>若电阻小于30时产生蜂鸣3</td></tr><tr><td>电池测试电流</td><td>9V (6mA); 1.5V",
+        "title": "## 技术指标说明_2",
+        "file_title": "万用表RS-12的使用",
+        "part": 2,
+        "parent_title": "## 技术指标说明"
+    },
+    {
+        "content": "(6mA); 1.5V (100mA)4</td></tr><tr><td>输入阻抗</td><td>&gt;1MΩ5</td></tr><tr><td>交流电压频宽</td><td>45Hz ~ 450Hz6</td></tr><tr><td>DCA电压跌路测试</td><td>200mV7</td></tr><tr><td>显示</td><td>3 $\\frac{1}{2}$",
+        "title": "## 技术指标说明_3",
+        "file_title": "万用表RS-12的使用",
+        "part": 3,
+        "parent_title": "## 技术指标说明"
+    },
+    {
+        "content": " 数位,2000位液晶显示,1.1”数位8</td></tr><tr><td>超量程提示</td><td>以“1”表示9</td></tr><tr><td>极性</td><td>自动(正极无显示);负极显示(-)10</td></tr><tr><td>测量率</td><td>正常情况下每秒2次11</td></tr><tr><td>低电池提示</td><td>电池电压不足时,显示BAT符号12</td></tr><tr><td>电池</td><td>一粒9V",
+        "title": "## 技术指标说明_4",
+        "file_title": "万用表RS-12的使用",
+        "part": 4,
+        "parent_title": "## 技术指标说明"
+    },
+    {
+        "content": "(NEDA 1604)电池13</td></tr><tr><td>保险丝</td><td>mA, μA量程;0.2A/250V快速熔断保险丝,A档量程1410A/250V快速熔断保险丝</td></tr><tr><td>操作环境</td><td>32°F~122°F (0°C~50°C)15</td></tr><tr><td>储存温度</td><td>-4°F~140°F",
+        "title": "## 技术指标说明_5",
+        "file_title": "万用表RS-12的使用",
+        "part": 5,
+        "parent_title": "## 技术指标说明"
+    },
+    {
+        "content": "(-20°C~60°C)16</td></tr><tr><td>相对湿度</td><td>&lt;70%操作,&lt;80%储存17</td></tr><tr><td>室内使用,最高海拔</td><td>7000英尺(2000米)18</td></tr><tr><td>重量</td><td>255g19</td></tr><tr><td>尺寸</td><td>150mm x 70mm x",
+        "title": "## 技术指标说明_6",
+        "file_title": "万用表RS-12的使用",
+        "part": 6,
+        "parent_title": "## 技术指标说明"
+    },
+    {
+        "content": "x 70mm x 48mm20</td></tr><tr><td>安全认证</td><td>室内使用,符合过电压类别II21</td></tr><tr><td>污染级别</td><td>222</td></tr></table>",
+        "title": "## 技术指标说明_7",
+        "file_title": "万用表RS-12的使用",
+        "part": 7,
+        "parent_title": "## 技术指标说明"
+    },
+    {
+        "content": "## 电池安装 23\n\n警告: 为防触电, 打开电池后盖前后，请勿操作仪表并把表笔与电源断开。24\n\n1. 把表笔与仪表断开。<sub>25</sub>\n\n2. 用螺丝刀拧开电池后盖上的螺母。26\n\n3. 正确安装电池，正负极应一致。27\n\n4. 盖上电池后盖并拧紧螺丝钉。 28\n\n警告: 为防触电,在电池后盖安装和固定之前，请勿操作仪表。29\n\n注意: 若仪表出现工作不正常，请检测保险丝和电池是否完好以及是否放 30在正确的位置。\n",
+        "title": "## 电池安装 23",
+        "file_title": "万用表RS-12的使用",
+        "part": 1,
+        "parent_title": "## 电池安装 23"
+    },
+    {
+        "content": "## 操作指导 31\n\n数值保持按键HOLD 32\n\n保持键允许仪表固定测量值以供参考：33\n\n1. 按下“HOLD”键保持读数， 同时出现“HOLD”字符 34\n\n2. 再次按下“DATA HOLD”键 切换至正常操作 35\n",
+        "title": "## 操作指导 31",
+        "file_title": "万用表RS-12的使用",
+        "part": 1,
+        "parent_title": "## 操作指导 31"
+    },
+    {
+        "content": "## 背光灯键（BACKLIGHT）36\n\n1. 按下背光灯键开启背光灯。37\n\n2. 再次按背光灯键关闭背光灯。38\n\n警告：小心触电，高压电流十分危险，应小心操作。39\n\n1. 为了节省电池损耗，使用后请将旋钮调至“OFF”档。40\n\n2. 若测量过程中显示屏出现“OL”，表明测量值超出所选档位，应改选 41更高档。\n\n注意:在某些低交直流电压档位内，若表笔与被测物断开，显示屏将出现 42任意不稳定数值。该现象由高输入灵敏度所致。若接通电路，可读到稳定准确的数值。\n\n测量非接触交流电压 43\n\n警告: 为了防止电击，请在使用前，确保正确使用此非接触交流电压测电 44笔。\n\n1. 让其探头靠近或插入火线的输出插座孔时。45\n\n2. 如果火线带有220V交流电输出，指示灯就会被点亮。46\n\n注意: 如果是零线和火线缠绕在一起时，此时测试要将两线分开，来进行 47火线与零线的区分。\n\n注意: 此非接触交流电压测电笔设计为高度灵敏探测.当遇到静电或其它能带电体时，可能指示灯也会亮起或瞬间闪烁，这属于正常现象。\n",
+        "title": "## 背光灯键（BACKLIGHT）36",
+        "file_title": "万用表RS-12的使用",
+        "part": 1,
+        "parent_title": "## 背光灯键（BACKLIGHT）36"
+    },
+    {
+        "content": "## 直流电压测量 49\n\n注意：正打开或关闭电源时不要进行此项测量，瞬间的强大电压将损坏 50仪表。\n",
+        "title": "## 直流电压测量 49",
+        "file_title": "万用表RS-12的使用",
+        "part": 1,
+        "parent_title": "## 直流电压测量 49"
+    },
+    {
+        "content": "## 1. 将功能转盘置于V DC的位置。1\n\n2. 将黑色表笔插入负极COM端口，红色表笔插入正极V端口。2\n\n3. 将表笔尖端接触被测物,确保极性正确(红色连正极,黑色连负极)。3\n\n4. 显示屏上读取电压值。显示屏显示了精确的小数点，数值。若极性颠倒， 4数值前将显示负号。\n",
+        "title": "## 1. 将功能转盘置于V DC的位置。1",
+        "file_title": "万用表RS-12的使用",
+        "part": 1,
+        "parent_title": "## 1. 将功能转盘置于V DC的位置。1"
+    },
+    {
+        "content": "## 交流电压测量 5\n\n警告：谨防触电。6\n\n若表笔长度不够不能接触到某些240V用具插座的带电部位，则可能出现插座有电而读到的数值却为0的情况。因此若无电压显示，应检查表笔是否接触到了插座内的金属接口。\n\n注意：正打开或关闭电源时不要进行此项测量，瞬 8间的强大电压将损坏仪表。",
+        "title": "## 交流电压测量 5_1",
+        "file_title": "万用表RS-12的使用",
+        "part": 1,
+        "parent_title": "## 交流电压测量 5"
+    },
+    {
+        "content": "![万用表RS-12测量交流电压操作示意图：红黑表笔接入V/COM端口，测量插座电压时需接触金属接口，避免电源开关瞬间高压损坏仪表",
+        "title": "## 交流电压测量 5_2",
+        "file_title": "万用表RS-12的使用",
+        "part": 2,
+        "parent_title": "## 交流电压测量 5"
+    },
+    {
+        "content": "。](http://127.0.0.1:9000/knowledge-base-files/upload-images/万用表RS-12的使用/5655456bfcc9ce60e0bd0f0fdb6d871bdb3eb1b30996ed66c6b0c4b0f49f625c.jpg)",
+        "title": "## 交流电压测量 5_3",
+        "file_title": "万用表RS-12的使用",
+        "part": 3,
+        "parent_title": "## 交流电压测量 5"
+    },
+    {
+        "content": "1. 将功能转盘置于V AC的位置。10\n\n2. 将黑色表笔插入负极COM端口，红色表笔插入正极V端口。11\n\n3. 将表笔尖端接触被测物。12\n\n4. 显示屏上读取电压值。显示屏显示了精确的小数点，数值和(AC,V等)符 13号。\n\n在显示屏上读取电压数据。不断重调功能转盘至低交流电压档位获得高分 14辨率读数。读数由精确的小数点和数值表示。",
+        "title": "## 交流电压测量 5_4",
+        "file_title": "万用表RS-12的使用",
+        "part": 4,
+        "parent_title": "## 交流电压测量 5"
+    },
+    {
+        "content": "## 直流电流测量 15\n\n注意：在10A情况下测量时间不能超过30秒，否则将可能损坏仪表或表笔。16",
+        "title": "## 直流电流测量 15_1",
+        "file_title": "万用表RS-12的使用",
+        "part": 1,
+        "parent_title": "## 直流电流测量 15"
+    },
+    {
+        "content": "![万用表RS-12测量直流电流：黑表笔插COM，红表笔插mA或10A端口，功能转盘调至相应档位。](http://127.0.0.1:9000/knowledge-base-files/upload-images/万用表RS-12的使用/09fcaebacbb6c14c9052fc63379b3f257a79dcbe4fad07bd295da84562a1b011.jpg)",
+        "title": "## 直流电流测量 15_2",
+        "file_title": "万用表RS-12的使用",
+        "part": 2,
+        "parent_title": "## 直流电流测量 15"
+    },
+    {
+        "content": "1. 将黑色表笔插入负极COM端口。18\n\n2. 测量直流200mA 以下的电流,将功能转盘置于最高DC mA档位，并将红 19色表笔插入mA端口。\n\n3. 测量直流10A时,将功能转盘置于10A档位，并将红色表笔(10A)端口。 20\n\n4. 断开被测电路的电源。在你想测量电流的位置打开电路绝缘层。21\n\n5. 将黑色表笔接触被测电路的负极，红色表笔接触被测电路正极。22",
+        "title": "## 直流电流测量 15_3",
+        "file_title": "万用表RS-12的使用",
+        "part": 3,
+        "parent_title": "## 直流电流测量 15"
+    },
+    {
+        "content": "6. 接通电源。<sub>23</sub>\n\n7. 在显示屏上读取读数。进行mA DC测量时,不断重调功能转盘至低mA DC 24档位获得高分辨率读数.读数由精确的小数点和数值表示。",
+        "title": "## 直流电流测量 15_4",
+        "file_title": "万用表RS-12的使用",
+        "part": 4,
+        "parent_title": "## 直流电流测量 15"
+    },
+    {
+        "content": "![万用表RS-12测量电压示意图：红黑表笔接入负载，显示屏读数为10.7V，旁标数字“25”](http://127.0.0.1:9000/knowledge-base-files/upload-images/万用表RS-12的使用/c46989502bbd73842f020c4fb6ad5bd7ef680db80f13338a8e361d2b0996cb1b.jpg)",
+        "title": "## 直流电流测量 15_5",
+        "file_title": "万用表RS-12的使用",
+        "part": 5,
+        "parent_title": "## 直流电流测量 15"
+    },
+    {
+        "content": "## 电阻测量 1\n\n警告: 为防触电,测量前应断开电源，把所有电容放电，取出电池和拔掉电 2线。\n\n1. 将功能转盘置于最高电阻Ω位置. 3\n\n2. 将黑色表笔插入负极COM端口，红色表笔插入正极Ω端口 4\n\n3. 把表笔接触被测电路或元件。测试时最好断开电路的一端，以使剩余的 5电路不会干扰被测电阻数值。\n\n4. 读取显示屏上读数，然后将功能转盘调至最低电阻Ω档位，通常大于实 6际电阻或预测电阻.读数由精确的小数点和数值表示。\n\n![万用表RS-12进行电阻测量示意图：表盘显示0.00，红黑表笔连接“Ω”端口，提示断开电路一端以准确测阻值。](http://127.0.0.1:9000/knowledge-base-files/upload-images/万用表RS-12的使用/3c49297b788b1b9c2c14a5cb85ceba7316bce1e824f8b91b03015cce9f6000d5.jpg)\n",
+        "title": "## 电阻测量 1",
+        "file_title": "万用表RS-12的使用",
+        "part": 1,
+        "parent_title": "## 电阻测量 1"
+    },
+    {
+        "content": "## 短路蜂鸣测试 8\n\n警告：请不要在接通电源的情况下进行在线短路蜂鸣测试以免触电。9\n\n1. 将功能键转盘置于 位置。10\n\n2. 将黑色表笔插入负极COM端口，红色表笔插入正极Ω端口。11\n\n3. 把表笔与被测物体相接触。12\n\n4. 当电阻小于30时Ω，仪表会发出蜂鸣.如果是开路，显示屏将显示“1”13字符。\n",
+        "title": "## 短路蜂鸣测试 8",
+        "file_title": "万用表RS-12的使用",
+        "part": 1,
+        "parent_title": "## 短路蜂鸣测试 8"
+    },
+    {
+        "content": "## 二极管测试 14\n\n1. 将黑色表笔插入负极COM 端口，红色表笔插入正极V端口。15\n\n2. 将功能转盘置于 位置。16\n\n3. 把表笔与二极管相接触，正向电压将显示400 至 700mV.反向电压显示 17“ 1”符号.短路时将显示接近 0V，开路时会在两种极性上显示“1”符号。\n",
+        "title": "## 二极管测试 14",
+        "file_title": "万用表RS-12的使用",
+        "part": 1,
+        "parent_title": "## 二极管测试 14"
+    },
+    {
+        "content": "## 电池测试 18\n\n1. 将黑色表笔插入负极COM端口，红色表笔插入正极V 端口。19\n\n2. 使用功能选择键，选择1.5V 或 9V 电池档位。20\n\n3. 将红色表笔接触电池正极，将黑色表笔接触电池负极。21\n\n4. 在显示屏上读取数值。22\n\n<table><tr><td></td><td>良好</td><td>较弱</td><td>坏的</td></tr><tr><td>9V 电池:</td><td>&gt;8.2V</td><td>7.2 至 8.2V</td><td>&lt;7.2V</td></tr><tr><td>1.5V 电池:</td><td>&gt;1.35V</td><td>1.22 至 1.35V</td><td>&lt;1.22V</td></tr></table>\n",
+        "title": "## 电池测试 18",
+        "file_title": "万用表RS-12的使用",
+        "part": 1,
+        "parent_title": "## 电池测试 18"
+    },
+    {
+        "content": "## 更换电池 24\n\n警告：为防触电，打开电池后盖前后，请勿操作仪表并把表笔与电源断开。25\n\n1. 当电池电压不足时，显示屏上会出现“BAT”符号，此时应更换电池。26\n\n2. 按下面的步骤安装电池。27\n\n3. 妥善处理废电池。<sub>28</sub>\n\n警告: 为防触电,在电池后盖安装和固定之前，请勿操作仪表。29\n",
+        "title": "## 更换电池 24",
+        "file_title": "万用表RS-12的使用",
+        "part": 1,
+        "parent_title": "## 更换电池 24"
+    },
+    {
+        "content": "## 更换保险丝 30\n\n警告:为防触电，在打开保险丝门之前，请把表笔和电源断开。31\n\n1. 把表笔与仪表及其它被测物断开。32\n\n2. 用螺丝刀拧开保险丝门上的螺母。33\n\n3. 轻轻取出废旧的保险丝。 34\n\n4. 装入新的保险丝。35\n\n5. 使用正确型号与数值的保险丝(0.2A/250V) 快速熔断保险丝用于200mA的量程，10A/250V 快速熔断保险丝用于10A的量程。\n\n6. 盖回后盖，拧紧螺钉。37\n\n警告: 为防触电，在保险盖盖紧前请勿操作仪表。38",
+        "title": "## 更换保险丝 30",
+        "file_title": "万用表RS-12的使用",
+        "part": 1,
+        "parent_title": "## 更换保险丝 30"
+    }
+]
